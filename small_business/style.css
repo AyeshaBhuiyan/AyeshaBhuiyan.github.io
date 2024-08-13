@@ -21,30 +21,6 @@
     font-family: 'Antic Didone', serif;
     font-weight: bold;
 
-/* .row3 {
-    margin:100px;
-    display:flex;
-    justify-content:
-space-around;
-} */ */
-
-/* .titlerow {
-    font-family: 'Italiana', serif;
-    color: #386157;
-    font-size: 25px;
-    display:flex;
-    justify-content:
-space-around;
-} */
-
-/* .titlerow2 {
-    font-family: 'Italiana', serif;
-    color: #386157;
-    font-size: 25px;
-    display:flex;
-    justify-content:
-space-around;
-} */
 
 .text {
     text-align:center;
@@ -58,4 +34,9 @@ space-around;
 img {
     border-radius: 50%;
 }
- 
+
+.row4 {
+    margin:50px;
+    display:flex;
+    justify-content:center;
+}

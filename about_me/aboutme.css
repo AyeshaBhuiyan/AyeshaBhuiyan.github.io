@@ -9,7 +9,7 @@
 .row1 {
     padding:50px;
     height: 50px;
-    background-color:#f1d1da;
+    background-color:#e6d5e0;
     display:flex;
     justify-content:center;
 
@@ -17,5 +17,15 @@
 .row2 {
     padding:20px;
     height: 400px;
-    background-color:#f1d1da; 
+    background-color:#e6d5e0; 
+    color:#e6d5e0;
+}
+
+#text {
+    display:flex;
+    justify-content:center;
+
+}
+.buttonrow {
+    background-color:#e6d5e0; 
 }
